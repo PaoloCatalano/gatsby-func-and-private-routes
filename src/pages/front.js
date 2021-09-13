@@ -8,7 +8,7 @@ export default function Front() {
   const fetchData = async () => {
     try {
       //   const { data } = await axios.get("api/serverless")
-      const { data } = await axios.get("api/serverless/basic-api")
+      const { data } = await axios.get("../api/serverless/basic-api")
       setBody(data)
       setloading(false)
     } catch (error) {
