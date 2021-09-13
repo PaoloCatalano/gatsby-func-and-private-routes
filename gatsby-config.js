@@ -5,6 +5,17 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    title: "functions experiments",
+  },
+  flags: {
+    FUNCTIONS: true,
+  },
+  plugins: [
+    `gatsby-plugin-gatsby-cloud`,
+    {
+      resolve: `gatsby-plugin-create-client-paths`,
+      options: { prefixes: [`/app/*`] },
+    },
+  ],
 }
