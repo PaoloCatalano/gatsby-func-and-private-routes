@@ -12,6 +12,9 @@ export default function Home() {
       <h2>
         <Link to="/api/handler">Go to API Page</Link>
       </h2>
+      <h2>
+        <Link to="/front">Test Front End / Back End</Link>
+      </h2>
     </center>
   )
 }
