@@ -7,8 +7,11 @@ export default function Front() {
 
   const fetchData = async () => {
     try {
-      //   const { data } = await axios.get("api/serverless")
-      const { data } = await axios.get("../api/serverless/basic-api")
+      //   const { data } = await axios.get("../api/serverless")
+      //senza "../" il fetch sará in domain.com/fetch/api/serverless (che non esiste!! )
+      const { data } = await axios.get(
+        "https://functions-experiments.netlify.app/api/handler"
+      )
       setBody(data)
       setloading(false)
     } catch (error) {
@@ -31,8 +34,8 @@ export default function Front() {
   return (
     <center>
       Front-End
-      {/* <h1>{body}</h1> */}
-      {body &&
+      <h1>{body}</h1>
+      {/* {body &&
         body.map(item => (
           <div key={item.id}>
             <h1>{item.name}</h1>
@@ -41,7 +44,7 @@ export default function Front() {
               <a href={item.image.url}>go to Image</a>
             </p>
           </div>
-        ))}
+        ))} */}
     </center>
   )
 }

@@ -94,5 +94,8 @@ const { loggerNOexpress } = require("./middleware/logger")
 
 export default function handler(req, res) {
   loggerNOexpress(req, res)
-  res.send("Home (no express style)")
+  res
+    .status(200)
+    .setHeader("Access-Control-Allow-Origin", "*")
+    .send("Home (no express style)")
 }
