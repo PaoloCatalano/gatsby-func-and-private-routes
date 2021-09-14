@@ -10,10 +10,13 @@ export default function Home() {
         <Link to="/app/login">Go to Login Page</Link>
       </h2>
       <h2>
-        <Link to="/api/handler">Go to API Page</Link>
+        <Link to="/api/handler">Go to all functions</Link>
       </h2>
       <h2>
         <Link to="/front">Test Front End / Back End</Link>
+      </h2>
+      <h2>
+        <Link to="/subscribe">Test Newsletters Subscription</Link>
       </h2>
     </center>
   )

@@ -94,6 +94,7 @@ const { loggerNOexpress } = require("./middleware/logger")
 
 export default function handler(req, res) {
   loggerNOexpress(req, res)
+  //per rendere disponibile il fetch da ogni altro sito!!
   res.setHeader("Access-Control-Allow-Origin", "*")
 
   res.status(200).send("Home (no express style)")
