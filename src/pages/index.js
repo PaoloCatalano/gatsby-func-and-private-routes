@@ -18,6 +18,9 @@ export default function Home() {
       <h2>
         <Link to="/subscribe">Test Newsletters Subscription</Link>
       </h2>
+      <h2>
+        <Link to="/issues">Get all Emails</Link>
+      </h2>
     </center>
   )
 }

@@ -11,7 +11,7 @@ export default async function subscription(req, res) {
     res.status(405).json({ mgs: "Only POST requests allowed!" })
   }
   if (!email) {
-    res.status(400).json({ mgs: "Only POST requests allowed!" })
+    res.status(400).json({ mgs: "no e-mail found" })
   }
 
   try {

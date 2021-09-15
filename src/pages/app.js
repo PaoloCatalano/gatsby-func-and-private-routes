@@ -7,6 +7,7 @@ import Err from "../components/Home"
 import Details from "../components/Details"
 import Login from "../components/Login"
 import PrivateRoute from "../components/PrivateRoute"
+import SingleIssue from "../components/SingleIssue"
 import "../css/global.css"
 
 export default function app() {
@@ -15,6 +16,7 @@ export default function app() {
       <Router>
         <CustomPerson path="/app/custom-person" />
         <RandomPerson path="/app/random-person/:quantity" />
+        <SingleIssue path="/app/issues/:id" />
         <PrivateRoute path="/app/details" component={Details} />
         <Login path="/app/login" />
         <Err path="*" />

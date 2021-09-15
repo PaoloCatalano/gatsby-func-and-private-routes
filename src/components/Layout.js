@@ -8,8 +8,10 @@ export default function Layout({ children }) {
       style={{
         display: "grid",
         grid: "auto 1fr auto / 1fr",
-        width: "100vw",
+        placeItems: "center",
+        width: "98vw",
         height: "100vh",
+        boxSizing: "content-box",
       }}
     >
       <Navbar />
