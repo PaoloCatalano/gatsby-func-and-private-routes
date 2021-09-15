@@ -49,7 +49,10 @@ export default function SingleIssues(props) {
       >
         <h1>{email.subject}</h1>
         <article>
-          <div dangerouslySetInnerHTML={{ __html: email.body }}></div>
+          <div
+            style={{ width: "75vw", maxWidth: "1000px", padding: "3rem" }}
+            dangerouslySetInnerHTML={{ __html: email.body }}
+          ></div>
         </article>
       </div>
     </center>

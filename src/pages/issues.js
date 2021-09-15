@@ -52,7 +52,11 @@ export default function Issues() {
                 <h1>{email.subject}</h1>
                 <article style={{ transform: "scale(0.6)" }}>
                   <div
-                    style={{ height: "5rem", overflow: "hidden" }}
+                    style={{
+                      height: "5rem",
+                      width: "60vw",
+                      overflow: "hidden",
+                    }}
                     dangerouslySetInnerHTML={{ __html: email.body }}
                   ></div>
                 </article>
