@@ -21,6 +21,9 @@ export default function Home() {
       <h2>
         <Link to="/issues">Get all Emails</Link>
       </h2>
+      <h2>
+        <Link to="/videos">TV 80's (Beta)</Link>
+      </h2>
     </center>
   )
 }

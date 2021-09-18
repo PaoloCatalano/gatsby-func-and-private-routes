@@ -18,6 +18,7 @@
     "gatsby": "^3.13.0",
     "gatsby-plugin-create-client-paths": "^3.13.0",
     "gatsby-plugin-gatsby-cloud": "^3.1.0",
+    "gatsby-source-youtube-playlist": "^1.0.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },

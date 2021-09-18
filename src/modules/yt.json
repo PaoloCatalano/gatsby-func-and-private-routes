@@ -1,0 +1,1554 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "M6ujRQDFpPmZhNEBHxAmarkFep8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dQ_BKLspQ2t2egddDyU8iu2_H00",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:26:27Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Sigla ''Big estate'' 1989",
+        "description": "BIG!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JHJTmutg-aM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JHJTmutg-aM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHJTmutg-aM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JHJTmutg-aM"
+        },
+        "videoOwnerChannelTitle": "sardinia1982",
+        "videoOwnerChannelId": "UCDmI1XESA4xubfhHk4cvVnA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qd5a1ytrWLQyx1g1YN9Gv5_vTAo",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:29:48Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "\"PAPERINO NEL MONDO DELLA MATEMAGICA\"- (completo)",
+        "description": "\"La matematica è l'alfabeto in cui Dio ha scritto l'universo\"\r\n\r\n- (cartone animato completo - 1959) -",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MkqguYTxIh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MkqguYTxIh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MkqguYTxIh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MkqguYTxIh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MkqguYTxIh4"
+        },
+        "videoOwnerChannelTitle": "monpetit chou",
+        "videoOwnerChannelId": "UCnDZOvgUQRzLX4MsM4VCanA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "azjCKn5-k_0xkJsLHPutF3AYnis",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:42:24Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 Spot Storici di GIOCATTOLI ANNI 80 - Volume 1",
+        "description": "10 pubblicità di giochi anni 80:\nDOLCE FORNO 1987\nCASTELLO DI GRAYSKULL 1984\nBARBIE LUCE DI STELLE 1987\nAMICI CERCAFAMIGLIA 1987\nCRYSTAL BALL 1988\nPOOCHIE INVENTATIMBRO 1987\nEGG MONSTER 1988\nCHERRY MERRY MUFFIN 1989\nPANINERIA DIDO' 1989\nBAMBOLA CANDY CANDY 1982",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tneEVDT1K_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tneEVDT1K_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tneEVDT1K_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tneEVDT1K_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tneEVDT1K_g"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D7nxCcB7ieWHmpoRqVrxHRE1jxo",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:40:50Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "KYASHAN - IL RAGAZZO ANDROIDE (1973) Film Completo HD",
+        "description": "Film di montaggio realizzato da Stefano Ercolino.\n\nIl dottor Azuma ha costruito quattro androidi dall'intelligenza artificiale sofisticata: Bryking, Sagure, Akubon e Barashin. I quattro androidi, creati per aiutare l'umanità a risolvere il grave problema dell'inquinamento, a causa di un violento corto circuito acquisiscono una volontà propria ed assumono il comando di un esercito di robot. Il loro obiettivo è la sottomissione di tutto il genere umano, da essi visto come il principale responsabile del degrado ambientale planetario. Azuma, disperato per quanto accaduto ed ormai assediato dagli androidi, non sa come rimediare, quando suo figlio Tetsuya, al prezzo della propria integrità umana, si offre per essere trasformato in un super androide capace di affrontare il nemico. L'esperimento riesce ed il giovane Tetsuya si trova così trasformato in Kyashan, mentre il fedele cane Lucky, gravemente ferito poco prima proprio per mano degli androidi, viene trasformato nel fedelissimo segugio-robot Flender, in grado di trasformarsi in vari veicoli.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8HUFck9e-04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8HUFck9e-04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8HUFck9e-04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8HUFck9e-04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8HUFck9e-04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8HUFck9e-04"
+        },
+        "videoOwnerChannelTitle": "SUPER TV 80",
+        "videoOwnerChannelId": "UC6tQdTAn2b7q1ekl-DajWjg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dlKcERZ1ciQssvFyiY7Ag2XZ8LU",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:42:41Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 Spot Storici di GIOCATTOLI ANNI 80 - Volume 2",
+        "description": "10 pubblicità storiche anni 80 di giocattoli\n1 LA MACCHINA DEL GELATO 1989\n2 ALLEGRO CHIRURGO 1987\n3 FAMIGLIA CUORE 1986\n4 THE REAL GHOSTBUSTERS 1988\n5 GIRA LA MODA 1989\n6 BRIVIDO 1986\n7 KEYPERS 1988\n8 MICROMACHINES 1989\n9 IRIDELLA 1985 \n10 GIG NIKKO 1989",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bWS4mMYq_Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bWS4mMYq_Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bWS4mMYq_Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bWS4mMYq_Vs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bWS4mMYq_Vs"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KmAv8FZysnQADU_Hz7sOqzlJ_OI",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:43:52Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Superclassifica Show - Supertelegattone - sigla completa",
+        "description": "La sigla del #SuperclassificaShow con #Oscar il #Supertelegattone in versione completa, ricostruita unendo le immagini della sigla di testa e di coda, con l'audio in alta qualità. La musica è scritta da a Valter Camurri e il testo da Maurizio Seymandi, mentre la voce di Oscar è dell’imitatore Franco Rosi. Questa è la versione del 1981, con il testo leggermente modificato rispetto a quella del 1978.\n\nPLAYLIST \"Le Sigle dei Cartoni Animati\"\nhttps://www.youtube.com/playlist?list=PLs1JLOSJZv1CX9mPHnJYSWpEKNTi48eu0\n\nISCRIVITI AL CANALE\nhttps://www.youtube.com/channel/UCqvw3Ufl1o3C2iSn5e-929A?sub_confirmation=1\n\nTESTO:\nSono il Telegattone… maaaaaaoo!\n\nIo per Pippo, Mike e Corrado\nsono meglio di un corredo\nper l’attore ed il cantante\nsono un premio inebriante\nSupertelegattoneeeee… maaaaaaoo\n\nBarbara Streisand ed anche Frank Sinatra\nsono una mia trovata\nsenza me Claudio Cecchetto\nnon sarebbe che un pupetto\nSupertelegattoneeeee… maaaaaaoo\n\nCome tutti i gatti vivo sopra i tetti\nappoggiato all’antenna centrale\nio controllo la TV locale\nSono il gatto sul tetto che ascolta\ntutto come fosse la prima volta\n\nCon la faccia a tivù-u-u-u\nQuesti baffi all’insù-u-u-u\nGli occhi più blu blu blu blu blu blu blu blu blu blu blu blu blu\ndi Paul Newman\nSe vi piace chiamatemi Oscar\n\nSono il Telegattone… maaaaaaoo\n\nÈ il mio debole più forte\ndi lasciarmi far la corte\ndal cantante più affermato\nche con me viene premiato\nSupertelegattoneeeee… maaaaaaoo\n\nMina, Lucio Dalla e Battisti\nqui con me non corron rischi\nGli artisti sono gatti, sì,\nma gatti da legare\nSupertelegattoneeeee… maaaaaaoo\n\nCome tutti i gatti vivo sopra i tetti\nappoggiato all’antenna centrale\nio controllo la TV locale\nSono un gatto sul tetto che ascolta\ntutto come fosse la prima volta\n\nCon la faccia a tivù-u-u-u\nquesti baffi all’insù-u-u-u\ngli occhi più blu blu blu blu blu blu blu blu blu blu blu blu blu\ndi Paul Newman\nSe vi piace chiamatemi Oscarmgt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JqE6zREGTCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JqE6zREGTCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JqE6zREGTCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JqE6zREGTCc"
+        },
+        "videoOwnerChannelTitle": "Tv Generalista",
+        "videoOwnerChannelId": "UCqvw3Ufl1o3C2iSn5e-929A"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FPVva9npdOFtzHoJSt9TGwXGJio",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:44:20Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Dead Or Alive - You Spin Me Round (Like a Record) (Official Video)",
+        "description": "Dead Or Alive - You Spin Me Round (Like A Record) (Official Video)\nListen on Spotify - http://smarturl.it/DeadOrAlive_Spotify\nListen on Apple Music - http://smarturl.it/DeadOrAlive_AppleMus\nAmazon - http://smarturl.it/DeadOrAlive_Amazon\nDeezer - https://www.deezer.com/track/864036?utm_source=deezer&utm_content=track-864036&utm_term=11914855_1581006226&utm_medium=web\n\nWATCH JIMMY FALLON AND PAUL RUDD REMAKE THE MUSIC VIDEO ► http://smarturl.it/YouSpinMeRound_JF\nWATCH JIMMY FALLON SIDE BY SIDE COMPARISON ► https://www.youtube.com/watch?v=v04ZwnAYLGQ\nWATCH THATS THE WAY I LIKE IT MUSIC VIDEO  ► https://www.youtube.com/watch?v=llHhiiNnIjY\nWATCH BRAND NEW LOVER MUSIC VIDEO ► hhttps://www.youtube.com/watch?v=llHhiiNnIjY\nWATCH JIMMY FALLON MUSIC VIDEO ► https://www.youtube.com/watch?v=oU9F6J1lafY\n\n#DeadOrAlive #YouSpinMeRound #Remastered #FallonTonight #PaulRudd #JimmyFallon #YouSpinMeRoundLikeARecord #DeadOrAliveOfficial #PeteBurns #DeadOrAliveOfficialVideo #DeadOrAliveLive #DeadOrAlive4K #DeadOrAliveEssentials #DeadOrAliveGreatestHits #Leclerc #PubLeclerc #LeclercMusique #DeadOrAliveYouSpinMeRound\n\nLyrics\n\nIf I, I get to know your name\nWell if I, could trace your private number, baby\n\nAll I know is that to me\nYou look like you're lots of fun\nOpen up your lovin' arms\nI want some, want some\n\nI set my sights on you (and no one else will do)\nAnd I, I've got to have my way now, baby\n\nAll I know is that to me\nYou look like you're having fun\nOpen up your lovin' arms\nWatch out here I come\n\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\n\nI got to be your friend now, baby\nAnd I would like to move in just a little bit closer\n\nAll I know is that to me\nYou look like you're lots of fun\nOpen up your lovin' arms\nWatch out, here I come\n\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\n\nI want your love\nI want your love\n\nAll I know is that to me\nYou look like you're lots of fun\nOpen up your lovin' arms\nWatch out, here I come\n\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\n\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\n\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\nYou spin me right round, baby\nRight round like a record, baby\nRight round round round\n\n#DeadOrAlive #YouSpinMeRound #FallonTonight #PaulRudd #JimmyFallon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGNiXGX2nLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGNiXGX2nLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGNiXGX2nLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PGNiXGX2nLU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PGNiXGX2nLU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PGNiXGX2nLU"
+        },
+        "videoOwnerChannelTitle": "DeadOrAliveVEVO",
+        "videoOwnerChannelId": "UCVPGWw_wYxW0IRTwRTOMNLg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VLwA6iyLzUB_BVUovZOttc6pKw8",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:44:29Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Michael Jackson - Billie Jean (Official Video)",
+        "description": "Official Music Video for \"Billie Jean\" by Michael Jackson\nListen to more of your favorites by Michael Jackson: https://MichaelJackson.lnk.to/_listenYD\n\n\"Billie Jean\" was the first short film made for 'Thriller,' the biggest-selling album of all time. The short film for this No. 1 single, directed by Steve Barron, made history as the first video by a black artist to receive heavy rotation on MTV, and was later ranked by the network as one of the 100 greatest music videos of all time.\n\nSubscribe to the official Michael Jackson YouTube Channel: https://MichaelJackson.lnk.to/subscribeYD\n\nWatch more Michael Jackson videos: https://MichaelJackson.lnk.to/_listenYC/youtube\n\nFollow Michael Jackson: \nFacebook: https://MichaelJackson.lnk.to/_followFI \nTwitter: https://MichaelJackson.lnk.to/_followTI\nInstagram: https://MichaelJackson.lnk.to/_followII \nWebsite: https://MichaelJackson.lnk.to/_followWI \nSpotify: https://MichaelJackson.lnk.to/_followSI\n\nWritten & Composed by Michael Jackson\nProduced by Quincy Jones for Quincy Jones Productions\nCo-Produced by Michael Jackson for MJJ Productions, Inc.\nFrom the album Thriller, released November 30, 1982\nReleased as a single January 2, 1983\n\nTHE SHORT FILM\nDirector: Steve Barron\nPrimary Production Location: Los Angeles, California\n\nMichael Jackson's short film for \"Billie Jean\" was the first of three short films produced for recordings from Thriller, which continues its reign as the biggest selling album of all time with worldwide sales in excess of 105 million as of June 1, 2016 and in December, 2015 became the first ever album to be awarded triple diamond status by the RIAA for US sales alone. The \"\"Billie Jean\"\" single reached No. 1 in 10 countries in the spring of 1983, including seven consecutive weeks atop the Billboard Hot 100 - becoming the second-highest selling single in America that same year.\n\n\"Billie Jean\" was certified Gold by the Recording Industry Association of America on April 4, 1983, and Platinum on February 4, 1989. The song won two Grammy Awards for Best R&B Song and Best R&B Performance - Male, as well as an American Music Award for Favorite Single - Pop/Rock and was also named the Single of the Year on The Village Voice Pazz & Jop critics' poll in 1983.\n\nThe short film featured a paparazzo attempting to photograph Jackson as he danced through an urban landscape. A specially created set featured steps and sidewalk tiles that lit up underneath Michael's feet. It is here that fans first saw some of Michael's best-known dance moves, such as spinning and landing on his toes. Many of Michael's steps and mannerisms in the video would become forever associated with The King of Pop.\n\nWhen the chorus hit.he sprung into this dance that was unlike anything I'd ever seen, director Steve Barron recounted of Jackson's choreography in the video. \"It was just extraordinary, instinctive. He pulled it all together and turned it into what we saw.The camera literally steamed up, the eyepiece steamed up, because of my heat from what I was seeing.\" Barron also recalled the crew breaking into spontaneous applause after Michael finished dancing.\n\nThe \"Billie Jean\" short film made history as the first video by a black artist to be played in heavy rotation on MTV, then in its second year. In 1992, the short film was inducted into the Music Video Producers Hall of Fame. MTV ranked \"Billie Jean\" as the 35th greatest music video of all time in 1999, one of three entries of Jackson's on the chart alongside \"Thriller\" and \"Beat It.\"\n\n#MichaelJackson #BillieJean #Thriller",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zi_XLOBDo_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zi_XLOBDo_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zi_XLOBDo_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zi_XLOBDo_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zi_XLOBDo_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zi_XLOBDo_Y"
+        },
+        "videoOwnerChannelTitle": "michaeljacksonVEVO",
+        "videoOwnerChannelId": "UCulYu1HEIa7f70L2lYZWHOw"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YrPsZqTSYHGR1F_jdHXhcTMbTYs",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:44:41Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Europe - The Final Countdown (Official Video)",
+        "description": "\"The Final Countdown\" by Europe\nListen to Europe: https://Europe.lnk.to/listenYD\n\nSubscribe to the official Europe YouTube channel: https://Europe.lnk.to/subscribeYD\n\nWatch more Europe videos: https://Europe.lnk.to/listenYD/youtube\n\nFollow Europe:\nFacebook: https://Europe.lnk.to/followFI/facebook\nInstagram: https://Europe.lnk.to/followII/instagram\nTwitter: https://Europe.lnk.to/followTI/twitter\nWebsite: https://Europe.lnk.to/followWI/websitegeneral\nSpotify: https://Europe.lnk.to/followSI/spotify\nYouTube: https://Europe.lnk.to/subscribeYD\n\nLyrics:\nIt's the final countdown\nThe final countdown\nOh\n\n#Europe #TheFinalCountdown #OfficialMusicVideo #HD #Remastered",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9jK-NcRmVcw"
+        },
+        "videoOwnerChannelTitle": "EuropeVEVO",
+        "videoOwnerChannelId": "UCnzCV_PxVZ-hsOrTy2NGxJw"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H4zx9coeICVVJQQR9xxOKyYY6QU",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:44:51Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Madonna - La Isla Bonita (Official Video)",
+        "description": "You're watching the official music video for \"La Isla Bonita\" from Madonna's album 'True Blue' released on Sire Records in 1986. Buy/Stream the 'True Blue' album here: https://apple.co/3jNvGXO \nListen to Madonna’s latest release here: https://Madonna.lnk.to/latest\n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID\u200b\n\nCheck out the Official Madonna YouTube Playlists…\nThe Complete Madonna Videography https://Madonna.lnk.to/Videography\u200b\nLive Performances https://Madonna.lnk.to/LiveYT\u200b\nMDNA Skin https://Madonna.lnk.to/MDNAskinYT\u200b\n\nHelp Us Give Back…\nRaising Malawi http://www.raisingmalawi.org/\u200b\nThe Ray of Light Foundation http://www.rayoflight.org/\u200b\n\nStay in touch with Madonna…\nhttp://madonna.com\u200b\nhttp://instagram.com/madonna\u200b\nhttp://twitter.com/madonna\u200b\nhttp://facebook.com/madonna\u200b\nhttp://www.madonna.com/newsletter\u200b\n\nThe Madonna Channel is the official YouTube home for Madonna. As the best-selling female recording artist of all time, Madonna continues to leave an indelible mark on the world through her art, music, activism and humanitarian leadership. Madonna consistently pushes boundaries, spurs conversations and unites us all through her revolutionary work. Subscribe for the latest videos, music, news and updates. Enjoy Madonna’s groundbreaking music videos, live performances, humorous videos and more.\n\nLyrics:\n¿Cómo puede ser verdad?\n[English translation: \"How could it be true?\"]\n\nLast night I dreamt of San Pedro\nJust like I'd never gone, I knew the song\nA young girl with eyes like the desert\nIt all seems like yesterday, not far away\n\nTropical the island breeze\nAll of nature wild and free\nThis is where I long to be\nLa isla bonita\n[\"The beautiful island\"]\n\nAnd when the samba played\nThe sun would set so high\nRing through my ears and sting my eyes\nYour Spanish lullaby\n\nI fell in love with San Pedro\nWarm wind carried on the sea, he called to me\nTe dijo te amo\n[\"He told you, 'I love you.'\"]\nI prayed that the days would last\nThey went so fast\n\nTropical the island breeze\nAll of nature wild and free\nThis is where I long to be\nLa isla bonita\n\nAnd when the samba played\nThe sun would set so high\nRing through my ears and sting my eyes\nYour Spanish lullaby\n\nI want to be where the sun warms the sky\nWhen it's time for siesta you can watch them go by\nBeautiful faces, no cares in this world\nWhere a girl loves a boy, and a boy loves a girl\n\nLast night I dreamt of San Pedro\nIt all seems like yesterday, not far away\n\nTropical the island breeze\nAll of nature wild and free\nThis is where I long to be\nLa isla bonita\n\nAnd when the samba played\nThe sun would set so high\nRing through my ears and sting my eyes\nYour Spanish lullaby\n\nTropical the island breeze\nAll of nature wild and free\nThis is where I long to be\nLa isla bonita\n\nAnd when the samba played\nThe sun would set so high\nRing through my ears and sting my eyes\nYour Spanish lullaby\n\nTe dijo te amo\nEl dijo que te ama\n[\"He said he loves you\"]\n\nLa isla bonita\nYour Spanish lullaby\n\n#OfficialMusicVideo #Madonna #LaIslaBonita #WeAreWarnerRecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpzdgmqIHOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpzdgmqIHOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpzdgmqIHOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zpzdgmqIHOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zpzdgmqIHOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zpzdgmqIHOQ"
+        },
+        "videoOwnerChannelTitle": "Madonna",
+        "videoOwnerChannelId": "UC81VD6eeuLLSfyY_D-N8sVw"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dMXKmyRyhcrtkjetlpLHdBoxACA",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:45:05Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Righeira - L'Estate Sta Finendo (1985)",
+        "description": "From my collection...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d63zhQZDQeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d63zhQZDQeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d63zhQZDQeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d63zhQZDQeo"
+        },
+        "videoOwnerChannelTitle": "italoeurodisco",
+        "videoOwnerChannelId": "UCOT6rWxxFNqwluwueus-XYg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AD8lQwjcxmJk1bqpdA_40HKcFKY",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:45:14Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Gianna Nannini -  I Maschi",
+        "description": "Gianna Nannini \n1987\nMaschi e altri\nhttps://open.spotify.com/track/6r7TYfmeQr6rU7asA1OyZf\nhttps://itunes.apple.com/it/album/i-maschi/id1048057282?i=1048058598",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pOeSUjNagCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pOeSUjNagCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pOeSUjNagCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pOeSUjNagCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pOeSUjNagCU"
+        },
+        "videoOwnerChannelTitle": "Gianna Nannini Official",
+        "videoOwnerChannelId": "UChcfahuTtwTTHJlIcZrhRSg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "930J0Ia8l14AiOXedVeWhtfpDpM",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:45:40Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Bill Medley, Jennifer Warnes - (I've Had) The Time Of My Life [Official Video]",
+        "description": "Bill Medley and Jennifer Warnes' official music video for '(I've Had) The Time Of My Life'. \nClick to listen to Bill Medley: https://LegacyRecordings.lnk.to/medley!toml\n\nAs featured on Dirty Dancing OST. Click to buy the track or album via: \niTunes: http://smarturl.it/BMDirtyDancing?IQid=BillMTML\nAmazon: http://smarturl.it/DirtyDAmazon?IQid=BillMTML\n\nMore great 80s videos here: http://smarturl.it/Ultimate80?IQid=BillMTML\n\nLyrics:\n\nNow I've had the time of my life\nNo, I never felt like this before\nYes I swear it's the truth\nAnd I owe it all to you\n'Cause I've had the time of my life\nAnd I owe it all to you\nI've been waiting for so long\nNow I've finally found someone to stand by me\nWe saw the writing on the wall\nAnd we felt this magical fantasy\nNow with passion in our eyes\nThere's no way we could disguise it secretly\nSo we take each others hand\n'Cause we seem to understand the urgency\n\n#BillMedley #TimeOfMyLife #80sMusic #Vevo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4BQLE_RrTSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4BQLE_RrTSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4BQLE_RrTSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4BQLE_RrTSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4BQLE_RrTSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4BQLE_RrTSU"
+        },
+        "videoOwnerChannelTitle": "BillMJennWVEVO",
+        "videoOwnerChannelId": "UC3CO0G5_dhzUk7W9BVBahdw"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pnm37XOt2rdOcUzYUrys3UXTav8",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:45:52Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Gianni togni - Luna - Video ufficiale",
+        "description": "Gianni è al pianoforte e mentre sorseggia un caffè intona le prime magiche note di \"Chissà se mi ritroverai\", subito dopo parte il video del suo più grande successo quello che lo ha lanciato giovanissimo nell'elitè della musica.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u5uLysZYJgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u5uLysZYJgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u5uLysZYJgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u5uLysZYJgU"
+        },
+        "videoOwnerChannelTitle": "nanden200067",
+        "videoOwnerChannelId": "UCtOgqgNSE7AQgocCNSEiuWA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fNgP2m96yaiMNDXDNLAU3wsisvA",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:45:27Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Vasco Rossi - Vita spericolata",
+        "description": "Vasco si presenta di nuovo a Sanremo con Vita spericolata. La canzone diventerà uno dei classici della musica italiana (così come Siamo solo noi) e raggiunge lo stesso anno il 6º posto nella classifica dei 45 giri, entra in finale, ma si classificherà al penultimo posto nella graduatoria del Festival. Fece scalpore la performance offerta agli spettatori del Teatro Ariston: all'attacco dell'ultimo ritornello Vasco saluta e abbandona il palco, lasciando il playback a terminare la canzone.\nSegue l'uscita dell'album Bollicine. È il sesto album in sei anni, quello che consacra definitivamente Vasco Rossi a icona del rock italiano: resta in classifica per 35 settimane, e si piazza come quinto album più venduto dell'anno. L'ironica canzone Bollicine, farcita di slogan e frasi ad effetto (con chiari riferimenti all'uso della cocaina), vince il Festivalbar '83, e il tour per promuovere l'album è un trionfo. È sicuramente uno dei periodi di massimo successo dal punto di vista musicale, ma non dal punto di vista umano: secondo alcuni biografi, in quel periodo Vasco sta veramente andando al massimo: è farmaco-dipendente, vive come se fosse sempre su un palco, non dorme per giorni interi mentre continua ad assumere anfetamina e Lexotan, tanto da costringere il manager Guido Elmi ad annullare vari concerti.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0kT_l7rnPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0kT_l7rnPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0kT_l7rnPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n0kT_l7rnPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n0kT_l7rnPw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n0kT_l7rnPw"
+        },
+        "videoOwnerChannelTitle": "Paolo Mattaliano",
+        "videoOwnerChannelId": "UCBMW1z9Cb8n2vbpgZXzq7rQ"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m6CjSjJZsQ_M1rESxKFPU-kNPuk",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:23:29Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kycd-EPfZ2E"
+        }
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UAuV8PFPki9wNT_xbP3rbbaEAPo",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:41:18Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 Spot Storici ANNI 80 - Volume 1",
+        "description": "10 pubblicità che hanno fatto la storia degli anni 80 :\nSMARTIES 1984\nMENTAL CARAMELLE 1985\nCOCCOLINO 1988\nPLASMON SPRINT 1984\nTONNO INSUPERABILE 1985\nIL SOLDINO MULINO BIANCO 1987\nLAVAZZA con Nino Manfredi 1984\nFRIZZY PAZZY 1987\nSPUNTI' 1988\nDASH DETERSIVO 1984\n#anni80 #spotanni80",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IL0nOhpGHhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IL0nOhpGHhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IL0nOhpGHhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IL0nOhpGHhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IL0nOhpGHhM"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WiK6EQSuRfJfWPQKHnUNBxdkgPk",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:41:34Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "RAI - Telegiornale delle Ore 13.30",
+        "description": "ANNO - 1982",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dskfxj-IQF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dskfxj-IQF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dskfxj-IQF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dskfxj-IQF0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dskfxj-IQF0"
+        },
+        "videoOwnerChannelTitle": "Telegiornale Uno",
+        "videoOwnerChannelId": "UCgRjbpL2-SOwPdNY51KN4ow"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eOaemPbG9J6ZYll8TrYIV6Htsuk",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-02-07T18:41:32Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 Spot Storici ANNI 80 - Volume 2",
+        "description": "10 pubblicità che hanno fatto la storia degli anni 80 :\nGRAND MARNIER 1989\nMASTROLINDO 1986\nRAPIDENT 1984\nVALLE DEGLI ORTI 1986\nLIPTON ICE TEA 1988\nLA CASA DI CAMPAGNA DI BARBIE 1985\nAMARO AVERNA 1987\nACQUA SAN BENEDETTO 1989\nMISTER DAY 1988\nCAMOMILLA MONTANIA 1986\nPROMO TV - VISITORS 1987",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/twBF92wpvec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/twBF92wpvec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/twBF92wpvec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/twBF92wpvec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "twBF92wpvec"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s3XF8i3hpj8JeGCABr8MLAWTEjA",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:46:18Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 SPOT ANNI 80 che oggi sarebbero CENSURATI 🚫",
+        "description": "10 pubblicità storiche anni 80 che oggi sarebbero improponibili:\n1 FLAVORAL CARAMELLE 1983\n2 CONSUMO CARNE 1987\n3 OROLOGI EPOQUE 1988\n4 PIASTRELLE GERFLOR 1989\n5 ALLEVAMENTO CINCILLà\n6 GELOSUCCOSI ELDORADO 1983 \n7 PRO ZUCCHERO 1986\n8 MATERASSI SECIFLEX 1989\n9 LATTE YOGURT BURRO E FORMAGGIO 1986\n10 PEPERLIZIA PONTI 1988",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1i_KuEDkrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1i_KuEDkrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1i_KuEDkrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T1i_KuEDkrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T1i_KuEDkrk"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1hnTzWFxSm1RWYDxKXPdm5XK8Wk",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:45:30Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JJTRnUZdR-Q"
+        }
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A7p6aee6VeJ7YLvScymAsx2Tt7E",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:58:19Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Pubblicità Anni 80 - 1° parte",
+        "description": "Le pubblicità che hanno fatto la storia degli anni 80",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jleeFVleLmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jleeFVleLmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jleeFVleLmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jleeFVleLmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jleeFVleLmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jleeFVleLmk"
+        },
+        "videoOwnerChannelTitle": "Soccer News Fun",
+        "videoOwnerChannelId": "UCpfmPMX_729HooBVdm-jCGg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dQj_wtpCcTzBtLQZZwRLvpi7dUE",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:49:21Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Tratti di Bim Bum Bam #1 , 1988 per tutti i nostalgici! Con Uan , Bonolis e Blanchard!",
+        "description": "Tratti di Bim Bum Bam - Settembre 1988 Bonolis, Blanchard e Uan\n\n🔥 INSTAGRAM! --) https://www.instagram.com/lamentenostalgica\n👕 Codice sconto Pampling: \"MENTENOSTALGICA\" -20% --) http://ow.ly/9BX730qBHFC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UkSezoO6lgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UkSezoO6lgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkSezoO6lgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UkSezoO6lgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UkSezoO6lgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UkSezoO6lgQ"
+        },
+        "videoOwnerChannelTitle": "LA MENTE NOSTALGICA",
+        "videoOwnerChannelId": "UCbJllKpcROADiFJN2Gy1_-A"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oI0ox38_Tgu0EFquKOZRKUjfvSo",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:50:46Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Batroberto Cena Mortale Bim Bum Bam   YouTube2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ImcFr9RhGbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ImcFr9RhGbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ImcFr9RhGbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ImcFr9RhGbg"
+        },
+        "videoOwnerChannelTitle": "Lorenzo Capasso",
+        "videoOwnerChannelId": "UCdHQ4UKxTAfY4ctsYiA9IVg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FC_JwdHtePixgIT3b04TRUUhgL4",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:03:27Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Spot - COCCOLINO Nuovo Profumo - 1989",
+        "description": "Pubblicità anni 80 del mitico COCCOLINO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuGpXkaxYj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuGpXkaxYj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuGpXkaxYj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CuGpXkaxYj8"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tb864K5qN7fqJt0HWpwK39qSzNY",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:03:11Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Orso Ciro Parlante pubblicità anni '90",
+        "description": "Pubblicità psichedelica di uno dei giocattoli più innovativi del 20° secolo. Mi piace la pizza!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCydrTnwPnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCydrTnwPnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCydrTnwPnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RCydrTnwPnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RCydrTnwPnM"
+        },
+        "videoOwnerChannelTitle": "Umilio Fido",
+        "videoOwnerChannelId": "UCoW-vq0ztVPae2AQZwHWgeQ"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PQo7VTHI4avuOwiu00b0fFtDQEY",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:54:21Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Bim bum Bam+sigla di chiusura 1992",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRvYestRA80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRvYestRA80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRvYestRA80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jRvYestRA80"
+        },
+        "videoOwnerChannelTitle": "Arch Stanton",
+        "videoOwnerChannelId": "UCi2nTx2ED9GXLOvd6Scp6qg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gdn0aoxM_OuuI38RJ5UxVktWzTE",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:59:06Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 Spot Storici ANNI 90 - Volume 1",
+        "description": "10 pubblicità che hanno fatto la storia degli anni 90 :\n* FERRERO ROCHER 1993\n* YOMO 1999\n* REX ZANUSSI 1993\n* PINO SILVESTRE 1996\n* SOFFICINI FINDUS 1997\n* PROFILATTICI CONTROL 1991\n* LYCIA DEPILAZIONE 1995\n* BUDINO CAMEO 1999\n* NOKIA 5110 1998\n* ATLANTE GEOGRAFICO 1995\n#anni90 #spotanni90",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q-yUF2zTfkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q-yUF2zTfkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q-yUF2zTfkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q-yUF2zTfkM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q-yUF2zTfkM"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MciAkja1-W3zWbukDwX8MZmN1nc",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-02-07T19:57:12Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "Twin Peaks - Trailer italiano prima stagione",
+        "description": "Dvd: https://amzn.to/2AbTUZi\nRecensione: https://locchiodelcineasta.com/i-segreti-di-twin-peaks/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oJ0KyphO5U4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oJ0KyphO5U4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oJ0KyphO5U4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oJ0KyphO5U4"
+        },
+        "videoOwnerChannelTitle": "L'occhio del cineasta",
+        "videoOwnerChannelId": "UCv7ovXrGUaC1W_2bIh6DcGg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1AHeFAI6WWgZf4_8kJTwyPrYZQg",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:06:46Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "La Ruota della Fortuna, 18 settembre 1992",
+        "description": "Questo filmato non ha finalità commerciali, e non è legato ai proprietari del marchio \"La Ruota della Fortuna\", \"Wheel of fortune\" e simili o a brani musicali e sequenze filmate in esso contenute, nè ai personaggi menzionati; in caso di violazione dei diritti di copyright il materiale sarà rimosso immediatamente.\n\nSeguite in anteprima i video della Fondazione Mike Bongiorno sull'omonima pagina Facebook.\n\nDa un'idea di Nicolò Bongiorno.\nProgetto a cura di Francesco Amico e Marko Vostan.\n\nSi ringrazia Simone Saltarelli per il video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BVNvmuv8j9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BVNvmuv8j9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BVNvmuv8j9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BVNvmuv8j9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BVNvmuv8j9s"
+        },
+        "videoOwnerChannelTitle": "FondazioneMike",
+        "videoOwnerChannelId": "UCM5O2N9BuJgTpMiBpPm2dUw"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1q0CYEE-xUaMhVgmMjg7ufi6_6U",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:07:38Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "10 Spot del tuo ANNO di NASCITA - 1984 - #1",
+        "description": "10 Spot Storici del 1984 \n* IMPULSE TEMPTATION\n* CONFETTURA SANTA ROSA\n* POOCHIE\n* COMMODORE 64\n* CAFFè PAULISTA\n* POSTAL MARKET\n* BALENO NELSEN\n* ALFABETO PARLANTE MATTEL\n* CAFFè LAVAZZA\n* CESARE RAGAZZI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhw76b7Obk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhw76b7Obk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhw76b7Obk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhw76b7Obk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fhw76b7Obk4"
+        },
+        "videoOwnerChannelTitle": "Tutto Spot 80",
+        "videoOwnerChannelId": "UC5xzgsoPdF-8fw9CpAG6-nA"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fJHMmGq4NCe4Aj_uC2XmSql11MY",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:11:09Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "1987 Rai Segnale Orario  22 febbraio",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sEhjpFJ95E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sEhjpFJ95E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sEhjpFJ95E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6sEhjpFJ95E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6sEhjpFJ95E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6sEhjpFJ95E"
+        },
+        "videoOwnerChannelTitle": "I magnetici anni",
+        "videoOwnerChannelId": "UCnU9BKvTBeKnzrUd0ZReM_A"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Z8bnUyd930GlFHNIh2E3651n-s",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:08:31Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "FANTASMI DA LEGARE (1988) Film Completo HD",
+        "description": "Rimasto senza un soldo, uno scapestrato nobile irlandese deve assoldare degli attori travestiti da fantasmi per affittare il suo castello a dei turisti in cerca di brividi; ma i fantasmi veri non gradiranno l'intrusione.\n\n#FantasmiDaLegare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZ6W-43NJYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZ6W-43NJYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZ6W-43NJYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GZ6W-43NJYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GZ6W-43NJYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GZ6W-43NJYQ"
+        },
+        "videoOwnerChannelTitle": "SUPER TV ANNI 80",
+        "videoOwnerChannelId": "UCi1hCQKnFIlkdAXi2xzjL0A"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cGc-xnWTimc0HsN6ZzKIEOvjEO8",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:10:07Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "REW | Sigla di fine trasmissioni Rai",
+        "description": "La sigla di fine trasmissioni della Rai, andata in onda fino al 1985. Dal 1977 ne fu realizzata una versione colorizzata.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7EQXOp9hkm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7EQXOp9hkm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7EQXOp9hkm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7EQXOp9hkm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7EQXOp9hkm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7EQXOp9hkm0"
+        },
+        "videoOwnerChannelTitle": "TV Rewind",
+        "videoOwnerChannelId": "UCAXqeMOloYAeQJGF_lbyeJg"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FyWuGldTCS4h8h09cJ0K0mfb3l4",
+      "id": "UEx6YzE0UjFFY3I5Q3VtbUFPUjNEbTl6M0NUMmlKMDdXQy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-02-07T20:30:48Z",
+        "channelId": "UCVqCdugV1gjswLhtOn7Jdhw",
+        "title": "TV no signal +sound",
+        "description": "This is a tv error cover",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mvM2eyk1frk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mvM2eyk1frk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvM2eyk1frk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alex Russo",
+        "playlistId": "PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mvM2eyk1frk"
+        },
+        "videoOwnerChannelTitle": "Lars98",
+        "videoOwnerChannelId": "UCVe4htz3GrKI3bOAfQsQ1_Q"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 35,
+    "resultsPerPage": 35
+  }
+}
