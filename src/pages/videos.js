@@ -136,3 +136,8 @@ https://developers.google.com/youtube/youtube_player_demo
 
 //BAD req
 //kycd-EPfZ2E,JJTRnUZdR-Q,
+
+/* 
+apiKey: "AIzaSyDvuN5ZzVJxRoXaH-CA9PwrfDQQaRsY9lQ",
+        channelId: "UCaRW_DIcp4n3iDDlvx002dQ",
+*/

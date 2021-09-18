@@ -17,13 +17,5 @@ module.exports = {
       resolve: `gatsby-plugin-create-client-paths`,
       options: { prefixes: [`/app/*`] },
     },
-    {
-      resolve: `gatsby-source-youtube-playlist`,
-      options: {
-        apiKey: "AIzaSyDvuN5ZzVJxRoXaH-CA9PwrfDQQaRsY9lQ",
-        channelId: "UCaRW_DIcp4n3iDDlvx002dQ",
-        maxResults: 20, // default is 5
-      },
-    },
   ],
 }
