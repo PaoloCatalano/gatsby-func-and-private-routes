@@ -23,7 +23,8 @@ export default function Videos() {
     if (autoplay) {
       try {
         fetch(
-          `https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&part=status&playlistId=PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC&maxResults=50&key=AIzaSyDvuN5ZzVJxRoXaH-CA9PwrfDQQaRsY9lQ`
+          `https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&part=status&playlistId=PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC&maxResults=50&key=
+          `
         )
           .then(x => x.json())
           .then(x => {
