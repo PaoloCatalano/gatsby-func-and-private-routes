@@ -1,4 +1,6 @@
 import React from "react"
+import "../css/global.css"
+require("dotenv").config()
 
 export default function Videos() {
   const [videos, setVideos] = React.useState([])
