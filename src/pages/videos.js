@@ -10,7 +10,7 @@ export default function Videos() {
 
   const handleNumeroCanale = () => {
     setNumeroCanale(() => {
-      if (numeroCanale > 99) {
+      if (numeroCanale >= 99) {
         return 1
       } else {
         return numeroCanale + 1
@@ -18,13 +18,12 @@ export default function Videos() {
     })
   }
 
-  React.useEffect(() => {
-    setCambioCanale(false)
+  function searchChannels() {
     if (autoplay) {
       try {
+        console.log("fetch")
         fetch(
-          `https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&part=status&playlistId=PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC&maxResults=50&key=
-          `
+          `https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&part=status&playlistId=PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC&maxResults=50&key=${process.env.TY_KEY}`
         )
           .then(x => x.json())
           .then(x => {
@@ -40,13 +39,19 @@ export default function Videos() {
                 })
             )
           })
-      } catch ({ error }) {
-        console.err(error.message)
+
+        console.log("end fetch")
+      } catch (error) {
+        console.log("errore é: " + error)
       }
     }
+  }
+
+  React.useEffect(() => {
+    searchChannels()
 
     // eslint-disable-next-line
-  }, [autoplay, cambioCanale])
+  }, [autoplay])
 
   React.useEffect(() => {
     let tempList = videos
@@ -54,8 +59,8 @@ export default function Videos() {
         return videoId
       })
       .join(",")
-
     setVideosIdList(tempList)
+    setCambioCanale(false)
   }, [videos])
 
   // React.useEffect(() => {
@@ -72,6 +77,7 @@ export default function Videos() {
         placeItems: "center",
         width: "100vw",
         height: "100vh",
+        backgroundColor: "black",
       }}
     >
       {autoplay ? (
@@ -88,10 +94,10 @@ export default function Videos() {
             {numeroCanale}
           </p>
           <iframe
-            style={{ pointerEvents: "none" }}
+            // style={{ pointerEvents: "none" }}
             width="100%"
             height="100%"
-            src={`https://www.youtube.com/embed/videoseries?autoplay=${autoplay}&controls=0&showinfo=0&modestbranding=0&loop=1&rel=0&iv_load_policy=3&enablejsapi=1&listType=playlist&playlist=${videosIdList}`}
+            src={`https://www.youtube.com/embed/videoseries?autoplay=${autoplay}&controls=0&rel=0&showinfo=0&loop=1&listType=playlist&playlist=${videosIdList}`}
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -114,6 +120,7 @@ export default function Videos() {
         disabled={!autoplay || cambioCanale}
         onClick={() => {
           setCambioCanale(true)
+          searchChannels()
           setNumeroCanale(handleNumeroCanale)
         }}
       >
