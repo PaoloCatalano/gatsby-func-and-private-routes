@@ -3,14 +3,10 @@
  *
  * See: https://www.gatsbyjs.com/docs/gatsby-config/
  */
-require("dotenv").config({
-  path: `.env.${process.env.NODE_ENV}`,
-})
 
 module.exports = {
   siteMetadata: {
     title: "functions experiments",
-    chiave: process.env.TY_KEY,
   },
   flags: {
     FUNCTIONS: true,

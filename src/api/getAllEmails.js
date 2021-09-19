@@ -3,8 +3,8 @@ const axios = require("axios")
 const { get_Method_Time } = require("./middleware/util-time")
 
 export default async function subscription(req, res) {
-  const method = req.method
   get_Method_Time(req)
+  const method = req.method
 
   if (method !== "GET") {
     res.status(405).json({ mgs: "Only Get requests allowed!" })
