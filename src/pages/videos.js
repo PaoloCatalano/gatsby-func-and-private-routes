@@ -7,7 +7,6 @@ export default function Videos() {
   const [autoplay, setautoplay] = React.useState(0)
   const [cambioCanale, setCambioCanale] = React.useState(false)
   const [numeroCanale, setNumeroCanale] = React.useState(1)
-  require("dotenv").config()
 
   const handleNumeroCanale = () => {
     setNumeroCanale(() => {
