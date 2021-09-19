@@ -1,14 +1,16 @@
 import React from "react"
+import { graphql } from "gatsby"
 import "../css/global.css"
-require("dotenv").config()
 
-export default function Videos() {
+export default function Videos({ data }) {
   const [videos, setVideos] = React.useState([])
   const [videosIdList, setVideosIdList] = React.useState("")
   // const [show, setShow] = React.useState(false)
   const [autoplay, setautoplay] = React.useState(0)
   const [cambioCanale, setCambioCanale] = React.useState(false)
   const [numeroCanale, setNumeroCanale] = React.useState(1)
+
+  console.log()
 
   const handleNumeroCanale = () => {
     setNumeroCanale(() => {
@@ -25,7 +27,7 @@ export default function Videos() {
       try {
         console.log("fetch")
         fetch(
-          `https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&part=status&playlistId=PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC&maxResults=50&key=${process.env.TY_KEY}`
+          `https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&part=status&playlistId=PLzc14R1Ecr9CummAOR3Dm9z3CT2iJ07WC&maxResults=50&key=${data.site.siteMetadata.chiave}`
         )
           .then(x => x.json())
           .then(x => {
@@ -51,7 +53,6 @@ export default function Videos() {
 
   React.useEffect(() => {
     searchChannels()
-
     // eslint-disable-next-line
   }, [autoplay])
 
@@ -131,6 +132,16 @@ export default function Videos() {
     </div>
   )
 }
+
+export const query = graphql`
+  {
+    site {
+      siteMetadata {
+        chiave
+      }
+    }
+  }
+`
 //https://www.youtube.com/embed/?listType=playlist&autoplay=1&loop=1&playlist=M7lc1UVf-VE&color=white
 
 //good

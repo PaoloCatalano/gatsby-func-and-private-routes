@@ -25,6 +25,7 @@ export default function SingleIssues(props) {
   }
   React.useEffect(() => {
     fetchData()
+    // eslint-disable-next-line
   }, [])
 
   if (loading) {
