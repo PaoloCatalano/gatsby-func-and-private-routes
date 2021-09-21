@@ -86,7 +86,7 @@ export default function Videos() {
             style={{ pointerEvents: touchable ? "auto" : "none" }}
             width="100%"
             height="100%"
-            src={`https://www.youtube.com/embed/videoseries?autoplay=${autoplay}&controls=0&rel=0&showinfo=0&loop=1&listType=playlist&playlist=${videosIdList}`}
+            src={`https://www.youtube.com/embed/?listType=playlist&autoplay=1&loop=1&playlist=6fbAWLbDA1Q,4bG7-s-bs5w,VEpaGKiJbrY`}
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -128,6 +128,8 @@ export default function Videos() {
 }
 
 //https://www.youtube.com/embed/?listType=playlist&autoplay=1&loop=1&playlist=M7lc1UVf-VE&color=white
+// non playlistable
+//https://www.youtube.com/embed/?listType=playlist&autoplay=1&loop=1&playlist=6fbAWLbDA1Q,4bG7-s-bs5w,VEpaGKiJbrY&list
 
 //good
 /*
@@ -137,6 +139,7 @@ https://www.youtube.com/embed/videoseries?autoplay=1&controls=0&showinfo=0&modes
 /* 
 https://developers.google.com/youtube/player_parameters?hl=it
 https://developers.google.com/youtube/youtube_player_demo
+https://developers.google.com/youtube/v3/docs
 */
 //"No filter selected. Expected one of: id, playlistId"
 
